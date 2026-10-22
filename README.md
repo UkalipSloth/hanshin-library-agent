@@ -5,7 +5,7 @@ LangChain의 **도구·Runtime Context·미들웨어·가드레일·단기/장�
 
 - 작성자: 정지원 (Jeong Jiwon, 202378223)
 - 모델: Ollama `qwen3:4b-instruct-2507-q4_K_M` (로컬 실행, 외부 API·RAG 없음)
-- 논문보고서: `한신스카이_논문보고서_202378223정지원.pdf` (별도 제출)
+- 논문보고서: `한신스카이_논문보고서_202378223_정지원.pdf` (별도 제출)
 - 데모 영상: https://youtu.be/HM3H29NgsSg
 
 ---
